@@ -29,7 +29,8 @@ Make sure you updated : wdio.conf.ts file
 1. Execute --> npm install @wdio/allure-reporter --save-dev
    Execute --> npm i allure-commandline --save-dev 
    
-        And check package.json file has: 
+        And check package.json file has:
+   
         *******
          "devDependencies": {
     "@wdio/allure-reporter": "^8.26.2", 
