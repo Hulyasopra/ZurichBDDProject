@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Dec 17 11:59:22 CET 2023","Sun Dec 17 11:59:35 CET 2023","13349","","As a user I should be able to  Pedir Cita","","","","Asking Appointment",""
+"passed","Sun Dec 17 11:59:22 CET 2023","Sun Dec 17 11:59:37 CET 2023","15260","","As a user I should be able to  Pedir Cita","","","","Asking Appointment Successfully",""
